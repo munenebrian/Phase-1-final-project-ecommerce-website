@@ -675,6 +675,19 @@ footer .copyright {
 }
 
 
+/* contact page */
+
+#contact-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#contact-details .details {
+    width: 40%;
+}
+
+
 /* start media query  */
 
 @media (max-width:799px) {
